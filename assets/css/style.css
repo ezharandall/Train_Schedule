@@ -1,0 +1,12 @@
+.wrapper{
+	background-color: black;
+	/* Just a test to make sure link is working */
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#currentTimeSpan{
+	padding-left:13%;
+}
